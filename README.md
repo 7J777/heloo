@@ -47,6 +47,3 @@ Après l'entraînement, vous pouvez utiliser le modèle pour générer du texte 
 
 ## Contribuer
 Les contributions sont les bienvenues ! Veuillez soumettre une demande de tirage (pull request) avec vos modifications et améliorations.
-
-## License
-Ce projet est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus de détails.
