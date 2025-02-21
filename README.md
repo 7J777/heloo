@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ## Configuration de l'environnement
-Assurez-vous d'avoir Python 3.7 ou supérieur installé sur votre machine. Il est recommandé d'utiliser un environnement virtuel pour gérer les dépendances.
+Assurez-vous d'avoir `Python 3.8` ou supérieur installé sur votre machine. Il est recommandé d'utiliser un environnement virtuel pour gérer les dépendances.
 
 ## Entraînement du modèle
 Pour entraîner le modèle, exécutez le script suivant :
